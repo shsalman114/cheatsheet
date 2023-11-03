@@ -1,4 +1,3 @@
-# ChatGPT ReactJS Schedule
 # ReactJS Learning Topics Schedule
 
 ## Week 1-2: Getting Started
